@@ -1,0 +1,12 @@
+{
+  "cookie": "AAF_UID=xxxxxxxx; AAF_LANG=vi; _ga=xxxx; _ga_QRSCBTW806=xxxx; _ga_0581WJ6K6H=xxxx",
+  "voice_sample_path": "voice_sample.mp3",
+  "book_path": "book.epub",
+  "output_dir": "audio_output",
+  "lang": "vi",
+  "min_chunk_len": 1800,
+  "max_chunk_len": 2000,
+  "poll_interval_sec": 5,
+  "max_wait_sec": 300,
+  "delay_between_jobs_sec": [3, 8]
+}
